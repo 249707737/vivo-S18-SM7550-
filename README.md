@@ -1,4 +1,6 @@
 vivo S18 (SM7550) 内核提权研究：防御矩阵与攻击面分析
+> ⚠️ **本仓库数据存在多处错误**（KASLR slide / physmap 基址 / task_struct 偏移）。
+> 请以最新归档为准：**[vivo-S18-SM7550-Kernel-5.15.178-Research-Archive](https://github.com/249707737/vivo-S18-SM7550-Kernel-5.15.178-Research-Archive)**
 
 概述
 
